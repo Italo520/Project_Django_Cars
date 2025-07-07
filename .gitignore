@@ -3,9 +3,5 @@ __pycache__/
 db.sqlite3
 .env
 venv/
-<<<<<<< Updated upstream
-.vscode/
-=======
 .vscode/
 media/
->>>>>>> Stashed changes
